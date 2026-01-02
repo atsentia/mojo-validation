@@ -213,7 +213,7 @@ print(errors)               # Full error report
 
 ## License
 
-MIT
+Apache 2.0
 
 ## Part of mojo-contrib
 
