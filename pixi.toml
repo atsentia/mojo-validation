@@ -1,0 +1,12 @@
+[project]
+name = "mojo-validation"
+version = "0.1.0"
+description = "Input validation and schema enforcement for Mojo applications"
+channels = ["conda-forge", "modular"]
+platforms = ["osx-arm64", "linux-64"]
+
+[tasks]
+test = "mojo run tests/test_validation.mojo"
+
+[dependencies]
+max = ">=24.6,<25"
