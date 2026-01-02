@@ -214,3 +214,7 @@ print(errors)               # Full error report
 ## License
 
 MIT
+
+## Part of mojo-contrib
+
+This library is part of [mojo-contrib](https://github.com/atsentia/mojo-contrib), a collection of pure Mojo libraries.
